@@ -1,0 +1,3 @@
+hi my name is Shrinath Krishna Korajkar
+this is data for learning file management
+in python
